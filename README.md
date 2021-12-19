@@ -16,7 +16,7 @@
 
 7. Go inside frontend folder using `cd frontend`
 
-8. Install dependencies using 'npm i`
+8. Install dependencies using `npm i`
 
 9. Start the development server using `npm run start`
 
